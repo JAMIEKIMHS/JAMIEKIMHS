@@ -24,13 +24,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/kubernetes-017CEE?style=for-the-badge&&logo=Kubernetes&logoColor=white"/>
   <br>
  
-  <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white"> 
-  <img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=white"> 
+ 
   <img src="https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white">  
   <br>
   
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> 
+  
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> 
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> 
 

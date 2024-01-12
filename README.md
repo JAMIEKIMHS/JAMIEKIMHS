@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 `LinkedIn` **|**
 
 `Skills` **|** 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/apache%20airflow-017CEE?style=for-the-badge&&logo=Apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-017CEE?style=for-the-badge&&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/kubernetes-017CEE?style=for-the-badge&&logo=Kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 

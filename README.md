@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/kubernetes-017CEE?style=for-the-badge&&logo=Kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)

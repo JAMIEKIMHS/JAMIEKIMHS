@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache%20airflow-017CEE?style=for-the-badge&&logo=Apacheairflow&logoColor=white"/>
-  <br>
   
   <img src="https://img.shields.io/badge/Docker-017CEE?style=for-the-badge&&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-017CEE?style=for-the-badge&&logo=Kubernetes&logoColor=white"/>
-  <br>
 
 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
